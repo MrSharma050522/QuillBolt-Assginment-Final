@@ -1,0 +1,36 @@
+.container {
+  width: 45%;
+  margin: 0px 20px 0px 20px;
+  box-shadow: 5px 5px 5px 5px rgb(209, 201, 201);
+  border-radius: 8px;
+  /* float: left; */
+}
+.heading {
+  margin-top: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  text-align-last: left;
+  color: white;
+  letter-spacing: 2px;
+}
+.buttonContainer {
+  margin: 15px 15px 20px 15px;
+}
+
+.element {
+  text-align-last: left;
+  padding: 20px 0px 20px 10px;
+  border-top: 1px solid grey;
+  font-size: larger;
+}
+.foot {
+  padding: 20px 0px 20px 0px;
+  background: rgb(221, 191, 196);
+  border-top: 1px solid grey;
+  font-size: larger;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
